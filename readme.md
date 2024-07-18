@@ -1,3 +1,6 @@
+**ENV commitado propositalmente!** para facilitar a configuração
+
+
 **Dentro da pasta "laravel" execute os seguites comandos:**
 
 `docker-compose up -d`
